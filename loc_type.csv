@@ -1,0 +1,239 @@
+listed_in(type),location,name
+Buffet,BTM,21
+Buffet,Banashankari,7
+Buffet,Bannerghatta Road,9
+Buffet,Basavanagudi,7
+Buffet,Bellandur,28
+Buffet,Brigade Road,25
+Buffet,Brookefield,6
+Buffet,Church Street,19
+Buffet,Electronic City,23
+Buffet,Frazer Town,1
+Buffet,HSR,19
+Buffet,Indiranagar,38
+Buffet,JP Nagar,45
+Buffet,Jayanagar,27
+Buffet,Kalyan Nagar,9
+Buffet,Kammanahalli,2
+Buffet,Koramangala 1st Block,3
+Buffet,Koramangala 4th Block,21
+Buffet,Koramangala 5th Block,65
+Buffet,Koramangala 6th Block,18
+Buffet,Koramangala 7th Block,25
+Buffet,Lavelle Road,30
+Buffet,MG Road,51
+Buffet,Malleshwaram,11
+Buffet,Marathahalli,34
+Buffet,New BEL Road,4
+Buffet,Rajajinagar,10
+Buffet,Residency Road,20
+Buffet,Richmond Road,63
+Buffet,Sarjapur Road,25
+Buffet,Shanti Nagar,9
+Buffet,Ulsoor,16
+Buffet,Whitefield,28
+Buffet,other locations,150
+Cafes,BTM,83
+Cafes,Banashankari,36
+Cafes,Banaswadi,24
+Cafes,Bannerghatta Road,46
+Cafes,Basavanagudi,11
+Cafes,Bellandur,36
+Cafes,Brigade Road,46
+Cafes,Brookefield,17
+Cafes,Church Street,51
+Cafes,Electronic City,24
+Cafes,Frazer Town,11
+Cafes,HSR,49
+Cafes,Indiranagar,97
+Cafes,JP Nagar,76
+Cafes,Jayanagar,77
+Cafes,Kalyan Nagar,45
+Cafes,Kammanahalli,27
+Cafes,Koramangala 1st Block,26
+Cafes,Koramangala 4th Block,53
+Cafes,Koramangala 5th Block,146
+Cafes,Koramangala 6th Block,43
+Cafes,Koramangala 7th Block,52
+Cafes,Lavelle Road,27
+Cafes,MG Road,76
+Cafes,Malleshwaram,31
+Cafes,Marathahalli,32
+Cafes,New BEL Road,29
+Cafes,Rajajinagar,4
+Cafes,Residency Road,31
+Cafes,Richmond Road,21
+Cafes,Sarjapur Road,22
+Cafes,Shanti Nagar,22
+Cafes,Ulsoor,56
+Cafes,Whitefield,51
+Cafes,other locations,225
+Delivery,BTM,3053
+Delivery,Banashankari,418
+Delivery,Banaswadi,310
+Delivery,Bannerghatta Road,828
+Delivery,Basavanagudi,344
+Delivery,Bellandur,617
+Delivery,Brigade Road,497
+Delivery,Brookefield,339
+Delivery,Church Street,193
+Delivery,Electronic City,570
+Delivery,Frazer Town,470
+Delivery,HSR,1694
+Delivery,Indiranagar,1091
+Delivery,JP Nagar,1151
+Delivery,Jayanagar,1043
+Delivery,Kalyan Nagar,366
+Delivery,Kammanahalli,329
+Delivery,Koramangala 1st Block,716
+Delivery,Koramangala 4th Block,464
+Delivery,Koramangala 5th Block,1075
+Delivery,Koramangala 6th Block,511
+Delivery,Koramangala 7th Block,503
+Delivery,Lavelle Road,127
+Delivery,MG Road,266
+Delivery,Malleshwaram,269
+Delivery,Marathahalli,980
+Delivery,New BEL Road,338
+Delivery,Rajajinagar,258
+Delivery,Residency Road,187
+Delivery,Richmond Road,257
+Delivery,Sarjapur Road,558
+Delivery,Shanti Nagar,198
+Delivery,Ulsoor,456
+Delivery,Whitefield,1041
+Delivery,other locations,4062
+Desserts,BTM,198
+Desserts,Banashankari,71
+Desserts,Banaswadi,37
+Desserts,Bannerghatta Road,137
+Desserts,Basavanagudi,66
+Desserts,Bellandur,75
+Desserts,Brigade Road,108
+Desserts,Brookefield,45
+Desserts,Church Street,29
+Desserts,Electronic City,71
+Desserts,Frazer Town,56
+Desserts,HSR,120
+Desserts,Indiranagar,140
+Desserts,JP Nagar,166
+Desserts,Jayanagar,182
+Desserts,Kalyan Nagar,88
+Desserts,Kammanahalli,35
+Desserts,Koramangala 1st Block,70
+Desserts,Koramangala 4th Block,81
+Desserts,Koramangala 5th Block,209
+Desserts,Koramangala 6th Block,70
+Desserts,Koramangala 7th Block,127
+Desserts,Lavelle Road,50
+Desserts,MG Road,68
+Desserts,Malleshwaram,85
+Desserts,Marathahalli,105
+Desserts,New BEL Road,33
+Desserts,Rajajinagar,55
+Desserts,Residency Road,63
+Desserts,Richmond Road,78
+Desserts,Sarjapur Road,82
+Desserts,Shanti Nagar,39
+Desserts,Ulsoor,71
+Desserts,Whitefield,137
+Desserts,other locations,512
+Dine-out,BTM,1660
+Dine-out,Banashankari,356
+Dine-out,Banaswadi,262
+Dine-out,Bannerghatta Road,578
+Dine-out,Basavanagudi,251
+Dine-out,Bellandur,479
+Dine-out,Brigade Road,455
+Dine-out,Brookefield,245
+Dine-out,Church Street,215
+Dine-out,Electronic City,516
+Dine-out,Frazer Town,172
+Dine-out,HSR,580
+Dine-out,Indiranagar,529
+Dine-out,JP Nagar,722
+Dine-out,Jayanagar,575
+Dine-out,Kalyan Nagar,315
+Dine-out,Kammanahalli,240
+Dine-out,Koramangala 1st Block,398
+Dine-out,Koramangala 4th Block,302
+Dine-out,Koramangala 5th Block,842
+Dine-out,Koramangala 6th Block,411
+Dine-out,Koramangala 7th Block,417
+Dine-out,Lavelle Road,191
+Dine-out,MG Road,343
+Dine-out,Malleshwaram,291
+Dine-out,Marathahalli,630
+Dine-out,New BEL Road,224
+Dine-out,Rajajinagar,251
+Dine-out,Residency Road,289
+Dine-out,Richmond Road,356
+Dine-out,Sarjapur Road,319
+Dine-out,Shanti Nagar,229
+Dine-out,Ulsoor,359
+Dine-out,Whitefield,768
+Dine-out,other locations,2792
+Drinks & nightlife,BTM,22
+Drinks & nightlife,Banashankari,14
+Drinks & nightlife,Banaswadi,6
+Drinks & nightlife,Bannerghatta Road,9
+Drinks & nightlife,Basavanagudi,5
+Drinks & nightlife,Bellandur,17
+Drinks & nightlife,Brigade Road,57
+Drinks & nightlife,Brookefield,4
+Drinks & nightlife,Church Street,36
+Drinks & nightlife,Electronic City,21
+Drinks & nightlife,Frazer Town,2
+Drinks & nightlife,HSR,14
+Drinks & nightlife,Indiranagar,65
+Drinks & nightlife,JP Nagar,51
+Drinks & nightlife,Jayanagar,12
+Drinks & nightlife,Kalyan Nagar,18
+Drinks & nightlife,Kammanahalli,6
+Drinks & nightlife,Koramangala 1st Block,7
+Drinks & nightlife,Koramangala 4th Block,62
+Drinks & nightlife,Koramangala 5th Block,84
+Drinks & nightlife,Koramangala 6th Block,51
+Drinks & nightlife,Koramangala 7th Block,25
+Drinks & nightlife,Lavelle Road,59
+Drinks & nightlife,MG Road,53
+Drinks & nightlife,Malleshwaram,20
+Drinks & nightlife,Marathahalli,22
+Drinks & nightlife,New BEL Road,8
+Drinks & nightlife,Rajajinagar,3
+Drinks & nightlife,Residency Road,55
+Drinks & nightlife,Richmond Road,16
+Drinks & nightlife,Sarjapur Road,19
+Drinks & nightlife,Shanti Nagar,9
+Drinks & nightlife,Ulsoor,23
+Drinks & nightlife,Whitefield,47
+Drinks & nightlife,other locations,162
+Pubs and bars,BTM,19
+Pubs and bars,Banaswadi,1
+Pubs and bars,Bannerghatta Road,2
+Pubs and bars,Bellandur,16
+Pubs and bars,Brigade Road,22
+Pubs and bars,Church Street,23
+Pubs and bars,Electronic City,21
+Pubs and bars,Frazer Town,2
+Pubs and bars,HSR,18
+Pubs and bars,Indiranagar,66
+Pubs and bars,JP Nagar,7
+Pubs and bars,Koramangala 1st Block,16
+Pubs and bars,Koramangala 4th Block,34
+Pubs and bars,Koramangala 5th Block,58
+Pubs and bars,Koramangala 6th Block,23
+Pubs and bars,Koramangala 7th Block,25
+Pubs and bars,Lavelle Road,34
+Pubs and bars,MG Road,36
+Pubs and bars,Malleshwaram,14
+Pubs and bars,Marathahalli,2
+Pubs and bars,New BEL Road,8
+Pubs and bars,Rajajinagar,10
+Pubs and bars,Residency Road,26
+Pubs and bars,Richmond Road,12
+Pubs and bars,Sarjapur Road,22
+Pubs and bars,Shanti Nagar,2
+Pubs and bars,Ulsoor,30
+Pubs and bars,Whitefield,33
+Pubs and bars,other locations,104
